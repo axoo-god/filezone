@@ -7,16 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/axoo-god/filezone"
-  },
   "keywords": [],
   "author": "caliphdev",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/axoo-god/filezone"
-  },
   "homepage": "https://github.com/axoo-god/filezone",
   "dependencies": {
     "axios": "^0.21.4",
